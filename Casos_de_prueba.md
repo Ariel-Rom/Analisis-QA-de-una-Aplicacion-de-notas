@@ -1,0 +1,3 @@
+| Casos de Prueba | Escenario de Prueba | Descripción del caso de prueba | Precondiciones | Pasos de prueba | Datos de prueba | Resultado esperado | Resultado real | Aprobado/Reprobado |
+|-----------------|---------------------|--------------------------------|----------------|-----------------|-----------------|--------------------|----------------|--------------------|
+| TC-001 | Verificar el login de usuario | Verificar login con credenciales válidas | Usuario registrado existe | 1. Abrir la app 2. Ingresar usuario/contraseña 3. click en "Login" | Usuario: Prueba123 Contraseña: 123Prueba | Usuario logueado exitosamente | | |
