@@ -70,7 +70,7 @@ Las pruebas podrán iniciar cuando:
 #### Criterios de salida (Exit Criteria)
 
 Las pruebas se considerarán finalizadas cuando: 
-- Todos los casos de pruebas planificados hayan sido ejectutados.
+- Todos los casos de pruebas planificados hayan sido ejecutados.
 - Al menos el 95% de los casos críticos pasen exitosamente.
 - Todos los defectos de alta prioridad estén corregidos y verificados.
 - Los defectos de baja prioridad estén documentados y aceptados para futura corrección.
